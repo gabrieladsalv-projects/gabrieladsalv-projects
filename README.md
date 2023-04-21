@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**gabrieldsalv/gabrieldsalv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+My name is Gabriel, I'm 21 and I'm from Brazil. I've been away for a few months due to personal reasons, but I'm coming back more excited than ever to learn more about programming. I really enjoy logical reasoning and I love coding. Soon I'm putting more projects here! I'm currently open to new jobs opportunities.
 
-Here are some ideas to get you started:
+## What I'm studying to remember 
+HTML/CSS | Python 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages I will soon be learning:
+Javascript | Golang
+
+## If you wanna know more about me and my skills
+
+[Github](https://github.com/gabrieldsalv)
+
+[Linkedin](https://www.linkedin.com/in/gabrieldsalvarenga)
+
+[dio.me](https://web.dio.me/users/gabriel_dsalvarenga/?tab=skills)
+
+[frontendmentor.io](https://www.frontendmentor.io/profile/gabrieldsalv)
+
+[codewars](https://www.codewars.com/users/gabrielzalv)
