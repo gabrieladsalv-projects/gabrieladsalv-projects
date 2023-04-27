@@ -10,7 +10,7 @@ HTML/CSS | Python
 Javascript | Golang
 
 ## My repositories 📁
-[frontendmentor project 1](https://gabrieldsalv.github.io/frontendmentor-project-basic-card/)
+[frontendmentor card project](https://gabrieldsalv.github.io/frontmentor-nft-preview-card-component/)
 
 [origamid project gridlayout](https://gabrieldsalv.github.io/grid-layout/)
 
