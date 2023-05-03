@@ -25,5 +25,3 @@ Javascript | Golang
 
 [frontendmentor.io](https://www.frontendmentor.io/profile/gabrieldsalv)
 
-[codewars](https://www.codewars.com/users/gabrielzalv)
-
