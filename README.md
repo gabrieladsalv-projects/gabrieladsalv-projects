@@ -10,18 +10,12 @@ HTML/CSS | Python
 Javascript | Golang
 
 ## My repositories 📁
-[frontendmentor card project](https://gabrieldsalv-projects.github.io/frontmentor-nft-preview-card-component/)
-
-[origamid project gridlayout](https://gabrieldsalv-projects.github.io/grid-layout/)
-
-[origamid project bikcraft](https://gabrieldsalv-projects.github.io/bikcraft/)
+Most of them are projects from frontendmentor.io, while the rest are from courses I've finished.
 
 
 ## If you wanna know more about me and my skills
 
 [Linkedin](https://www.linkedin.com/in/gabrieldsalvarenga)
-
-[dio.me](https://web.dio.me/users/gabriel_dsalvarenga/?tab=skills)
 
 [frontendmentor.io](https://www.frontendmentor.io/profile/gabrieldsalv)
 
