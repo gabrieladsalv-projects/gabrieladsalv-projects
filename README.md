@@ -15,8 +15,10 @@ Most of them are projects from frontendmentor.io, while the rest are from course
 
 ## If you wanna know more about me and my skills
 
-[Linkedin](https://www.linkedin.com/in/gabrieldsalvarenga)
+cv: [Linkedin](https://www.linkedin.com/in/gabrieldsalvarenga)
 
-[frontendmentor.io](https://www.frontendmentor.io/profile/gabrieldsalv)
+html/css/js: [frontendmentor.io](https://www.frontendmentor.io/profile/gabrieldsalv)
 
-[replit](https://replit.com/@gabrieldsalv)
+python projects: [replit](https://replit.com/@gabrieldsalv)
+
+html/css/js: [50 projects in 50 days](https://codepen.io/collection/GoBgzN)
